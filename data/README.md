@@ -15,7 +15,7 @@ This directory stores all datasets used in the project.
 
 | # | Dataset | Source | Files | Size | Format |
 |---|---------|--------|-------|------|--------|
-| 1 | DESED | Zenodo | 50+ | ≥5 GB | WAV, JAMS |
+| 1 | DESED   | Zenodo | 50+ | ≥5 GB | WAV, JAMS |
 | 2 | CAUCAFall | Mendeley | 100+ | ≥6 GB | AVI, PNG, TXT |
 | 3 | WaterLeakage | GitHub | 30+ | ≥5 MB | WAV |
 | 4 | HumanScreaming | Kaggle | 3,493 | 5.68 GB | WAV |
